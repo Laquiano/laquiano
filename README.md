@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Passionate developer and curious about new technologies
 <!--
 **Laquiano/laquiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
